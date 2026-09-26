@@ -1,12 +1,15 @@
-# OpenCrawl Rc Crawler.
+# Rc Crawler.
 
 ### A configurable RC Car chasis and setup. 
-(Currently in pre alpha)
+(Currently in testing phase)
 
 ## Goal
 
 Design an adjustable rc car chasis, starting with the suspension. 
-Aimeing to be fully adjustbe, (Canmber, Toe, Ackerman steering etc)
+Aimeing to be fully adjustbe, (Camber, Toe, Ackerman steering etc)
+
+<img src="Images/Screenshot_2026-08-26_202321.png" alt="Project Screenshot" width="700">
+
 
 
 
@@ -21,14 +24,21 @@ Aimeing to be fully adjustbe, (Canmber, Toe, Ackerman steering etc)
 
 ## Version History
 
+### V3
+Finished front block design and created chassis. 
+ - Tested limits of steering hubs, knuckles, and suspension links.
+ - Created mount for MG90s; metalgear servo
+ - Refined rear suspension linkages
+ - Designed new print in place ball joints. (yet to be tested)
+
 ### V2
 
 Animated/rigged the assembly and tested for physical limits in onshape.
 Works as expected and has quite a good amount of range however could you some refinement.
 
-!img1
 
-#### v2.5
+
+#### v1.5
 I made some improvents about the linkages and wheel knuckles.
  - Strenghtened knuckles.
  - Increased printing efficiency and strength of the top/bottom arms
@@ -50,8 +60,8 @@ Currently not adjustable or meeting any requirements but it will likey work as b
 
 ## Future Work
 
-- Animate/assemble wishobes/power transfer unit
-- Front steering block
+- finish body
+- test front block
 - design Diffs/Power system.
-- chasis!!!
-- Aero (long long term)
+- FEA strength test chasis
+  
